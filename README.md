@@ -1,7 +1,7 @@
 # Responsive Portfolio
 ## Description
 ### In this application I have made a portfolio with a navbar, responsive layout, responsive images, bootstrap's grid system, and optimized for mobile. 
-![Application landing page](./assets/Images/Screenshot.PNG)
+![Application landing page](./Assets/Images/Screenshot.PNG)
 ### Here is a link to the deployed application
 [https://corbinjarms.github.io/responsive-portfolio/](https://corbinjarms.github.io/responsive-portfolio/)
 - - -
